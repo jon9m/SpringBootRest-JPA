@@ -1,4 +1,4 @@
-package com.mmks.courseapi;
+package com.mmks.courseapi.topic;
 
 import org.springframework.data.repository.CrudRepository;
 
